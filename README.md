@@ -1,2 +1,1 @@
-# sree
-this is first repository
+print ("hello")
